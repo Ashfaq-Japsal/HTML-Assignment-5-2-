@@ -1,0 +1,59 @@
+
+#center {
+    text-align: center;
+    width: 50%;
+    margin-left: 22%;
+}
+
+#font50 {
+    font-size: 20px;
+}
+
+#hide {
+    empty-cells: hide;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.praet {
+    background-color: rgb(132, 243, 160);
+}
+
+.lightMarjanda {
+    background-color: rgb(219, 166, 255);
+}
+
+.lightgray {
+    background-color: lightgray;
+}
+
+.white {
+    background-color: white;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.Red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.noborder {
+    border: none;
+}
+
+td {
+    border: 1px solid;
+}
+
